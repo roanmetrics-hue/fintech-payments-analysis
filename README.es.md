@@ -32,7 +32,7 @@ Corre todo en orden: cargar → limpiar → transformar → analizar → grafica
 | `data/productos.csv` | Catálogo de productos |
 | `data/regiones.csv` | Catálogo de regiones |
 
-Dataset del [Ciencia de Datos y machine learning], publicado con permiso del profesor. La descripción de las columnas está en [`diccionario_datos.md`](diccionario_datos.md).
+Dataset del curso Ciencia de Datos y machine learning, publicado con permiso del profesor. La descripción de las columnas está en [`diccionario_datos.md`](diccionario_datos.md).
 
 ## Estructura
 

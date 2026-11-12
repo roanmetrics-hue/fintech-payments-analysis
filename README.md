@@ -34,7 +34,7 @@ The script runs everything in order: load → clean → transform → analyze �
 | `data/productos.csv` | Product catalog |
 | `data/regiones.csv` | Region catalog |
 
-Dataset provided by [Data Sciencie & Machine learning], published with the instructor's permission. Column descriptions are in [`diccionario_datos.md`](diccionario_datos.md) (in Spanish).
+Dataset provided by the Data Science & Machine learning course, published with the instructor's permission. Column descriptions are in [`diccionario_datos.md`](diccionario_datos.md) (in Spanish).
 
 ## Project structure
 
