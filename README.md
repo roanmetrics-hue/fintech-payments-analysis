@@ -14,7 +14,7 @@ Clean 100,000 payments from a fintech (February 2024), join them with the produc
 Requires [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/YOUR-USER/fintech-payments-analysis.git
+git clone https://github.com/roanmetrics-hue/fintech-payments-analysis.git
 cd fintech-payments-analysis
 uv sync
 uv run main.py
@@ -34,7 +34,7 @@ The script runs everything in order: load → clean → transform → analyze �
 | `data/productos.csv` | Product catalog |
 | `data/regiones.csv` | Region catalog |
 
-Dataset provided by [COURSE NAME], published with the instructor's permission. Column descriptions are in [`diccionario_datos.md`](diccionario_datos.md) (in Spanish).
+Dataset provided by [Data Sciencie & Machine learning], published with the instructor's permission. Column descriptions are in [`diccionario_datos.md`](diccionario_datos.md) (in Spanish).
 
 ## Project structure
 

@@ -14,7 +14,7 @@ Limpiar los 100 000 pagos de febrero de 2024 de una fintech, unirlos con los cat
 Necesita [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/TU-USUARIO/fintech-payments-analysis.git
+git clone https://github.com/roanmetrics-hue/fintech-payments-analysis.git
 cd fintech-payments-analysis
 uv sync
 uv run main.py
@@ -32,7 +32,7 @@ Corre todo en orden: cargar → limpiar → transformar → analizar → grafica
 | `data/productos.csv` | Catálogo de productos |
 | `data/regiones.csv` | Catálogo de regiones |
 
-Dataset del [NOMBRE DEL CURSO], publicado con permiso del profesor. La descripción de las columnas está en [`diccionario_datos.md`](diccionario_datos.md).
+Dataset del [Ciencia de Datos y machine learning], publicado con permiso del profesor. La descripción de las columnas está en [`diccionario_datos.md`](diccionario_datos.md).
 
 ## Estructura
 

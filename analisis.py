@@ -88,7 +88,7 @@ def tasa_fallidos_por_region(df):
  
     return tabla.sort_values("tasa_total", ascending=False)
  
-# Respuesta: Como se presentó en el cuaderno c_analisis, ahora daré mis respuestas en base a la pregunta
+# Respuesta: 
 # ¿Qué región tiene la mayor tasa de pagos fallidos y de contracargos?
 #
 # La tasa se calcula solo con los pagos normales: se excluyen los cargos fijos de -25 y los
