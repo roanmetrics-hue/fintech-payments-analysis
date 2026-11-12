@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivo generado por limpieza.py (se recrea al correrlo)
+data/pagos_fintech_limpio.csv
+
+# Material del curso
+guia_standar_datos.md

@@ -1,0 +1,20 @@
+[project]
+name = "fintech-payments-analysis"
+version = "0.1.0"
+description = "Cleaning and analysis of 100,000 fintech payments with pandas: data quality flags, validated merges and business findings."
+readme = "README.md"
+authors = [
+    { name = "RoanMetrics", email = "roanmetrics@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]

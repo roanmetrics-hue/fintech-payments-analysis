@@ -1,0 +1,7 @@
+product_id,product_type,interest_rate,currency
+1,Wallet,0.0,USD
+2,Card,0.24,USD
+3,Loan,0.35,USD
+4,Loan,0.18,USD
+5,Card,0.29,USD
+6,Wallet,0.0,USD
